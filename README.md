@@ -43,7 +43,7 @@ The page concludes with  two-column section for Habilities (teamwork & communica
 
 The visual design is built around clean readability, accessible content hierarchy, and a lightweight user interface optimized for rapid scanning by hiring managers. 
 
-A neutral background color scheme is paired with dark body text to maintain optimal contrast ratios. Also there’s a header in blue to make more entusiasm in the name and the photo. Distinct headings (<h2>, <h3>) establish clear visual section boundaries, while generous line-heights and structured lists prevent visual clutter. The profile photo is centered in the header to establish immediate visual identity.
+A neutral background color scheme is paired with dark body text to maintain optimal contrast ratios. Also there’s a header in blue to make more entusiasm in the name and the photo. Distinct headings (h2, h3) establish clear visual section boundaries, while generous line-heights and structured lists prevent visual clutter. The profile photo is centered in the header to establish immediate visual identity.
 
 Strategic accent colors highlight key interactive elements, such as the "Contact with me" action button. The responsive layout organizes experience, education, skills, and languages into clean visual blocks. On larger desktop displays, skills and languages sit side-by-side to maximize screen real estate, stacking cleanly into a single vertical column on mobile screens.
 
@@ -53,7 +53,7 @@ https://www.figma.com/design/2o2fEPcxADI3PfQDMKG1qo/cv?node-id=0-1&t=cUiaWoTrU1G
 
 5. Technologies and Implementation Decisions
 
-HTML5 & CSS3: Structured using clean semantic HTML tags (<header>, <section>, <footer>, <ul>, <ol>) and a custom external stylesheet (style.css).
+HTML5 & CSS3: Structured using clean semantic HTML tags (header, section, footer, ul, ol) and a custom external stylesheet (style.css).
 
 Web Fonts: Integrated Google Fonts.
 
