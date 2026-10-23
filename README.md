@@ -47,20 +47,12 @@ A neutral background color scheme is paired with dark body text to maintain opti
 
 Strategic accent colors highlight key interactive elements, such as the "Contact with me" action button. The responsive layout organizes experience, education, skills, and languages into clean visual blocks. On larger desktop displays, skills and languages sit side-by-side to maximize screen real estate, stacking cleanly into a single vertical column on mobile screens.
 
+Native HTML5 and CSS3 were chosen without external frameworks or heavy libraries to guarantee maximum page load speed, minimal bundle size, and clean code correctness as specified in the project guidelines.
+
 4. Figma Design Link
 
 https://www.figma.com/design/2o2fEPcxADI3PfQDMKG1qo/cv?node-id=0-1&t=cUiaWoTrU1GoTJD2-1
 
-5. Technologies and Implementation Decisions
-
-HTML5 & CSS3: Structured using clean semantic HTML tags (header, section, footer, ul, ol) and a custom external stylesheet (style.css).
-
-Web Fonts: Integrated Google Fonts.
-
-Responsive Layout: Designed to adapt cleanly across mobile, tablet, and desktop viewports.
-
-Technical Justification: Native HTML5 and CSS3 were chosen without external frameworks or heavy libraries to guarantee maximum page load speed, minimal bundle size, and clean code correctness as specified in the project guidelines.
-
-6. Live Website Link
+5. Live Website Link
 
  ( https://tomasantoniomaimone5-collab.github.io/tomasantonioCV/)
